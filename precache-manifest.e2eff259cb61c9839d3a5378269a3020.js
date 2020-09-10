@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc4f63322bc199044cba240a81dc0d7c",
+    "revision": "e2aa863b272f3de6db158aae217ca790",
     "url": "/kratin1.0/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kratin1.0/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "a8db7453ec641f2bf88f",
+    "revision": "36e6ff83240f6291142c",
     "url": "/kratin1.0/static/css/main.9f533c2a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kratin1.0/static/js/2.e34b9bec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8db7453ec641f2bf88f",
-    "url": "/kratin1.0/static/js/main.5cfd2ad1.chunk.js"
+    "revision": "36e6ff83240f6291142c",
+    "url": "/kratin1.0/static/js/main.881a14fb.chunk.js"
   },
   {
     "revision": "d82c895eccc87712cfe1",
