@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kratin1.0/precache-manifest.46a5a0083dae0382da95554cd8eb8f02.js"
+  "/kratin1.0/precache-manifest.ede7b3af24193e3fed12f9ab80270629.js"
 );
 
 self.addEventListener('message', (event) => {

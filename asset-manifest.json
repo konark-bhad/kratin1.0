@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/kratin1.0/static/css/main.9f533c2a.chunk.css",
-    "main.js": "/kratin1.0/static/js/main.f83ab09a.chunk.js",
-    "main.js.map": "/kratin1.0/static/js/main.f83ab09a.chunk.js.map",
+    "main.js": "/kratin1.0/static/js/main.5cfd2ad1.chunk.js",
+    "main.js.map": "/kratin1.0/static/js/main.5cfd2ad1.chunk.js.map",
     "runtime-main.js": "/kratin1.0/static/js/runtime-main.22504067.js",
     "runtime-main.js.map": "/kratin1.0/static/js/runtime-main.22504067.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/kratin1.0/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.e284a509.chunk.js": "/kratin1.0/static/js/2.e284a509.chunk.js",
-    "static/js/2.e284a509.chunk.js.map": "/kratin1.0/static/js/2.e284a509.chunk.js.map",
+    "static/js/2.e34b9bec.chunk.js": "/kratin1.0/static/js/2.e34b9bec.chunk.js",
+    "static/js/2.e34b9bec.chunk.js.map": "/kratin1.0/static/js/2.e34b9bec.chunk.js.map",
     "index.html": "/kratin1.0/index.html",
-    "precache-manifest.46a5a0083dae0382da95554cd8eb8f02.js": "/kratin1.0/precache-manifest.46a5a0083dae0382da95554cd8eb8f02.js",
+    "precache-manifest.ede7b3af24193e3fed12f9ab80270629.js": "/kratin1.0/precache-manifest.ede7b3af24193e3fed12f9ab80270629.js",
     "service-worker.js": "/kratin1.0/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/kratin1.0/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.9f533c2a.chunk.css.map": "/kratin1.0/static/css/main.9f533c2a.chunk.css.map",
-    "static/js/2.e284a509.chunk.js.LICENSE.txt": "/kratin1.0/static/js/2.e284a509.chunk.js.LICENSE.txt"
+    "static/js/2.e34b9bec.chunk.js.LICENSE.txt": "/kratin1.0/static/js/2.e34b9bec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.22504067.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.e284a509.chunk.js",
+    "static/js/2.e34b9bec.chunk.js",
     "static/css/main.9f533c2a.chunk.css",
-    "static/js/main.f83ab09a.chunk.js"
+    "static/js/main.5cfd2ad1.chunk.js"
   ]
 }
